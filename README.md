@@ -184,7 +184,13 @@ the wheels were assembled using the black (outer) part of the rings, which we we
 ## checking the platform in motion 
 
 
-The control is performed using an application written by Azamat Tavitov
+The control is performed using an application written by Azamat Tavitov  
+
+
+
+https://github.com/user-attachments/assets/3c18ef59-5599-45ed-93f8-bce452537a43
+
+
 
 
 
