@@ -107,7 +107,7 @@ led stripe (there must have been some mistake here, perhaps at the soldering sta
 
 ![photo_5348459913023712612_y](https://github.com/user-attachments/assets/912e6a47-5539-4bda-baae-aea9051b620a)  
 
-now you can check the operation of the system by controlling the program from your smartphone, which is written by Azamat Tavitov  
+now you can check the operation of the system by controlling the program from your smartphone, which is written by  [Azamat Tavitov](https://github.com/m112521)
 
 
 
@@ -184,7 +184,7 @@ the wheels were assembled using the black (outer) part of the rings, which we we
 ## checking the platform in motion 
 
 
-The control is performed using an application written by Azamat Tavitov  
+The control is performed using an application written by [Azamat Tavitov](https://github.com/m112521)
 
 
 
