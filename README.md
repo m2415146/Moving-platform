@@ -111,7 +111,94 @@ now you can check the operation of the system by controlling the program from yo
 
 
 
-https://github.com/user-attachments/assets/2fefd0cb-a193-42c6-81dc-f85d08bf1cc4  
+https://github.com/user-attachments/assets/2fefd0cb-a193-42c6-81dc-f85d08bf1cc4    
+
+## Creating a platform and cutting a wheels  
+
+since by this point I was already impatient to test the platform in action and was too lazy to go for measuring tools, I used lidar in my iphone using the roulette application  
+
+I measured the width of the board and the finished 3rd class, which we were given in our hands 
+
+![photo_5348459913023712676_y](https://github.com/user-attachments/assets/7dce85d7-98fa-4da0-aad4-d158816c6673)  
+
+![photo_5348459913023712675_y](https://github.com/user-attachments/assets/44dcbf6a-6171-49b3-8744-afa4ada709f2)  
+
+![photo_5348459913023712674_y](https://github.com/user-attachments/assets/a272d80b-6109-4e21-bed1-a26b70bb98d2)  
+
+the platform and wheels had to be cut out of plywood 3 mm wide using a laser engraver  
+
+I took the finished wheels file, removed the extra parts from it in RhinoCeros  
+
+![photo_5348459913023712678_y](https://github.com/user-attachments/assets/ecf790c3-a7d0-474b-bf34-505b81e32f18)  
+
+the size of the platform was modeled "by eye", as well as its simple shape was taken in order to quickly test the principle of movement in action  
+
+the holes for the 3rd finished wheel were modeled "by eye" with a margin. fasteners for plastic ties were also modeled, with which the motors had to be fixed (the important point was that the structure should be able to be disassembled, without compromising the electronic ones  
+
+![photo_5348459913023712685_y](https://github.com/user-attachments/assets/fe21e6a0-c6bb-48a3-861b-7620dbfa54a0)  
+
+then I exported the file to the CorelDRAW program in the format.dxf and prepared for laser trimming. The lines were grouped so that the machine would first cut out the inner holes and only then the outer contours  
+
+![photo_5348459913023712686_y](https://github.com/user-attachments/assets/00f9ec71-ee0a-4c95-9fca-e3dbfa96f6ef)  
+
+laser cut in action  
+
+
+
+https://github.com/user-attachments/assets/76141e67-dd14-4b72-9e3a-f2b1d9ca3f77  
+
+result  
+
+![photo_5348459913023712706_y](https://github.com/user-attachments/assets/8315288e-883e-4441-a8f3-f0de3e2132eb)  
+
+## assembling components on the platform  
+
+it was performed using plastic ties. black - wide, white - narrow  
+
+motors with wheels are fixed on the underside of the platform  
+
+![photo_5348459913023712713_y](https://github.com/user-attachments/assets/32977f0b-46de-4515-961d-26f4e077daa5)  
+
+view from the upper side of the platform  
+
+![photo_5348459913023712712_y](https://github.com/user-attachments/assets/a4e12296-b11e-4b47-96d1-9fd354b6b314)  
+
+of course, it could have been made neater and more aesthetically pleasing. but the time of the lesson was coming to an end and I couldn't wait to see the work of the platform assembled so that next week I could continue to move further in my studies  
+
+in order to secure the electronic components at the top of the platform, I used additional ties, which I placed crosswise  
+
+![photo_5348459913023712715_y](https://github.com/user-attachments/assets/d3a4745e-b10a-46f3-af57-3836c7b99fef)  
+
+we fix the electronic components by threading additional ties  
+
+![photo_5348459913023712714_y](https://github.com/user-attachments/assets/93ed9065-3e12-4cbd-84f1-3a68ca4f655d)  
+
+## wheel assembly  
+
+the wheels were assembled using the black (outer) part of the rings, which we were provided with ready-made wheels that I cut out of plywood and fixed them to holders on motors that had previously been printed on a 3d printer. fixing took place with screws and nuts  
+
+![photo_5348459913023712677_y](https://github.com/user-attachments/assets/5e5164e4-552c-46d4-9d93-17edde960da6)  
+
+![photo_5348459913023712729_y](https://github.com/user-attachments/assets/c7a2ac3d-3e78-4528-95d5-80697a38d1cf)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
