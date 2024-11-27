@@ -33,7 +33,7 @@ ready
 
 ## Soldering  
 
-There will be a link to Soldering project  
+There will be a link to  [Soldering first steps](https://github.com/m2415146/Soldering-first-steps- ) 
 
 motor  
 
