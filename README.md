@@ -243,7 +243,21 @@ Printing in action
 
 
 
-https://github.com/user-attachments/assets/2ba48bd0-10f4-4e60-9bdc-1c9c61ac9585  
+https://github.com/user-attachments/assets/2ba48bd0-10f4-4e60-9bdc-1c9c61ac9585    
+
+making a screws in RhinoCeros  
+
+![Screenshot_132](https://github.com/user-attachments/assets/f39e968a-886d-4044-a898-5d6238f3ed3b)  
+
+SLicing in Orcaslicer  
+
+![Screenshot_133](https://github.com/user-attachments/assets/a2a26783-18d1-4852-b9cb-544418f32b0a)  
+
+Same printer, material, settings  
+
+
+
+
 
 
 
