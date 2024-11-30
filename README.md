@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c35da4ed-7225-4aff-a851-67e691342e7f
 # Moving-platform
 Study task to make a moving platform  
 
