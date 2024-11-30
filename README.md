@@ -219,7 +219,14 @@ Ready parts
 
 ![photo_5357436703909994633_y](https://github.com/user-attachments/assets/3fe8f319-a3c7-45f9-aa39-3b75b6dcc59c)  
 
-I have printed 4 more samples and will be looking for new possibilities for modifying rotational motion that can be tested on our platform
+I have printed 4 more samples and will be looking for new possibilities for modifying rotational motion that can be tested on our platform.
+
+modelling a basic part for wheel  
+
+I opened the file holderFootprint and made a 3d object out of it in the RhinoCeros program with screw holes. I have taken the thickness of 3 mm so far, as well as the plywood from which we cut the wheels in class. I will try the first layer with this thickness, then I will change it in accordance with the shape to be moved  
+
+![Screenshot_129](https://github.com/user-attachments/assets/20bcddf2-58a4-487b-b2aa-51da94dbb573)
+
 
 
 
