@@ -225,7 +225,31 @@ modelling a basic part for wheel
 
 I opened the file holderFootprint and made a 3d object out of it in the RhinoCeros program with screw holes. I have taken the thickness of 3 mm so far, as well as the plywood from which we cut the wheels in class. I will try the first layer with this thickness, then I will change it in accordance with the shape to be moved  
 
-![Screenshot_129](https://github.com/user-attachments/assets/20bcddf2-58a4-487b-b2aa-51da94dbb573)
+![Screenshot_129](https://github.com/user-attachments/assets/20bcddf2-58a4-487b-b2aa-51da94dbb573)  
+
+## 1v of wheels  
+
+the simplest version, it's just interesting to try. when I already put it on the seal, I thought that it was worth making the very area of contact with the surface longer.  
+
+modelling in RhinoCeros. I slightly increased the thickness of the wheel itself to increase the area of contact with the surface , also trying to give strength to the wheel. I made holes that would include the caps from the tightening screws and at this stage realized that it was worth making the structure with the holders from the motors themselves monolithic. but I already have holders for the motors. perhaps I will also try to print the screws themselves - which will be in the form of bushings without threads and will be connected to the main part of the mower with glue
+
+![Screenshot_130](https://github.com/user-attachments/assets/05023275-843f-4aca-9436-57b7fb923bc5)  
+
+Slicing in OrcaSlicer. Same printer, same material, same settings.  
+
+![Screenshot_131](https://github.com/user-attachments/assets/6437bba7-a91f-47af-aac7-c3749aa1b2a4)  
+
+Printing in action  
+
+
+
+https://github.com/user-attachments/assets/2ba48bd0-10f4-4e60-9bdc-1c9c61ac9585  
+
+
+
+
+
+
 
 
 
