@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c35da4ed-7225-4aff-a851-67e691342e7f
 # Moving-platform
 Study task to make a moving platform  
 
@@ -188,7 +190,42 @@ The control is performed using an application written by [Azamat Tavitov](https:
 
 
 
-https://github.com/user-attachments/assets/3c18ef59-5599-45ed-93f8-bce452537a43
+https://github.com/user-attachments/assets/3c18ef59-5599-45ed-93f8-bce452537a43  
+
+## new variations of movement  
+
+first, I need to print out the adapters from the motors to the wheels. since I do this at home, I will use the materials that I have  
+
+3d printer - FlashhForge A5M  
+
+the mode in the vegetable slicer, perhaps the standard setting for Petg Generic Flashforge, nozzle 04  
+
+![Screenshot_126](https://github.com/user-attachments/assets/b0a96ac7-0640-4a09-b15d-b4ea3ec84c63)  
+
+then I will try to print eSUN Petg on a filament.  
+
+![photo_5357327998287733741_y](https://github.com/user-attachments/assets/4fcd0302-d572-45e0-86ab-a81a3a67363c)  
+
+but I'm having trouble printing the eSUN again.  I will probably have to calibrate the filament. For now, I'll take an already working filament - Petg Geeetech  
+
+Printing in action  
+
+
+
+https://github.com/user-attachments/assets/f44fa785-e492-484f-85e3-be6618feb486
+
+
+
+Ready parts  
+
+![photo_5357436703909994633_y](https://github.com/user-attachments/assets/3fe8f319-a3c7-45f9-aa39-3b75b6dcc59c)  
+
+I have printed 4 more samples and will be looking for new possibilities for modifying rotational motion that can be tested on our platform
+
+
+
+
+
 
 
 
