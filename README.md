@@ -253,7 +253,7 @@ SLicing in Orcaslicer
 
 ![Screenshot_133](https://github.com/user-attachments/assets/a2a26783-18d1-4852-b9cb-544418f32b0a)  
 
-Same printer, material, settings  
+Same printer, material, settings. there is now video of printing because of low printing time
 
 
 
