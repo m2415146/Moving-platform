@@ -253,7 +253,51 @@ SLicing in Orcaslicer
 
 ![Screenshot_133](https://github.com/user-attachments/assets/a2a26783-18d1-4852-b9cb-544418f32b0a)  
 
-Same printer, material, settings. there is now video of printing because of low printing time
+Same printer, material, settings. there is now video of printing because of low printing time  
+
+there will be no photos of the result, since of the 3 printed screws, one was lost while I was removing it from the plate, the other had the screw cap broken off during removal, and the third, during an attempt to tighten, also broke - the cap broke off, and the rest of the screw had to be removed from the holes.  
+
+I understood that the problem arises at the level of interlayer adhesion, but also because of the small size of the screw. therefore, I tried to arrange it differently on the printing platform and printed it again  
+
+![Screenshot_134](https://github.com/user-attachments/assets/ad39f454-4f98-4b90-9007-707078eb9ca6)  
+
+Same printer, material, settings.  
+
+ready.  
+
+![photo_5361940303537366981_y](https://github.com/user-attachments/assets/c58e2393-ea58-4bac-9690-32838bd52cf4)  
+
+
+
+https://github.com/user-attachments/assets/886e0990-b502-4e0f-98a5-97c16a9197d7  
+
+failure again. for now, I'll give up trying to print screws of a similar size.  
+
+## 2v of wheels  
+
+I find it interesting to move the rotation to another plane, so I started considering other options. I found a [gear project](https://www.printables.com/model/607786-bevel-gear-tester-with-parametric-gears)
+gear project and decided to use it as a wheel.  
+
+![Screenshot_140](https://github.com/user-attachments/assets/8d04267a-9705-4a61-94a3-ac4b0f65ba6f)  
+
+in order to get the necessary parts from the project, I used the RhinoCeros program. Also there I added the motor element itself with spherical legs at an angle  
+
+![Screenshot_137](https://github.com/user-attachments/assets/e274ef81-5419-4ec1-9e7c-654738af6f94)  
+
+![Screenshot_138](https://github.com/user-attachments/assets/2cc98f0c-32c4-46ae-ab8e-8b6cb740d5e6)  
+
+for the convenience of printing, I did not combine the models and used them for slicing OrcaSlicer  
+
+![Screenshot_139](https://github.com/user-attachments/assets/c829f17f-c60a-417b-ae16-d4a49c8c8391)  
+
+Same printer, material, settings
+
+
+
+
+
+
+
 
 
 
