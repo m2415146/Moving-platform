@@ -308,7 +308,7 @@ since the printing of the first gears turned out well, I put the gears for the o
 
 I continue experimenting with moving the axis of rotation to another plane. in this case, I want to move the wheels down and slightly to the side (which I did not reflect on the modeling, but it will be visible in the final assembly)  
 
-Modelling in RHinoCeros  
+Modelling in RHinoCeros. I added holes in the wheels to reduce weight and reduce the load on the axle, from which rotation will be transferred from the motor to the wheels
 
 ![Screenshot_145](https://github.com/user-attachments/assets/e8dd1ec0-be15-4c8d-a208-b5d17d45226d)  
 
