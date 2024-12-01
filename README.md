@@ -290,7 +290,14 @@ for the convenience of printing, I did not combine the models and used them for 
 
 ![Screenshot_139](https://github.com/user-attachments/assets/c829f17f-c60a-417b-ae16-d4a49c8c8391)  
 
-Same printer, material, settings
+Same printer, material, settings  
+
+Printing in action:  
+
+
+
+https://github.com/user-attachments/assets/7beff7d0-a5b7-404e-8813-7f63a9586a19
+
 
 
 
