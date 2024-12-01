@@ -296,7 +296,31 @@ Printing in action:
 
 
 
-https://github.com/user-attachments/assets/7beff7d0-a5b7-404e-8813-7f63a9586a19
+https://github.com/user-attachments/assets/7beff7d0-a5b7-404e-8813-7f63a9586a19  
+
+Ready  
+
+![photo_5361940303537367303_y](https://github.com/user-attachments/assets/92400bd4-a103-460e-a2e8-35353f410b76)  
+
+since the printing of the first gears turned out well, I put the gears for the other wheel on the seal. I will need to think about the part that will connect the upper and lower gears.  
+
+## 3v of wheels  
+
+I continue experimenting with moving the axis of rotation to another plane. in this case, I want to move the wheels down and slightly to the side (which I did not reflect on the modeling, but it will be visible in the final assembly)  
+
+Modelling in RHinoCeros  
+
+![Screenshot_145](https://github.com/user-attachments/assets/e8dd1ec0-be15-4c8d-a208-b5d17d45226d)  
+
+![Screenshot_146](https://github.com/user-attachments/assets/eb819dae-139d-4f99-8fbe-07820fb212dc)  
+
+SLicing in OrcaSlicer. Same printer, material and settings but - completion 20% vs 15% before  
+
+![Screenshot_148](https://github.com/user-attachments/assets/5085b740-bcc3-493e-9992-1a9daf192033)
+
+
+
+
 
 
 
