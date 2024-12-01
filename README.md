@@ -304,6 +304,27 @@ Ready
 
 since the printing of the first gears turned out well, I put the gears for the other wheel on the seal. I will need to think about the part that will connect the upper and lower gears.  
 
+when I was thinking about it, I realized that it was possible to use a swivel joint, which I modeled in RhinoCeros  
+
+![Screenshot_149](https://github.com/user-attachments/assets/fc0811ad-e1d5-44d5-851b-f0222aff023d)  
+
+![Screenshot_150](https://github.com/user-attachments/assets/2085bdbe-8d50-4d6f-af6f-3cbd03affc47)  
+
+Slicing in Orcaslicer, same printer, settings and nozzle. Printing was together with parts from whleel v3 parts  
+
+![Screenshot_153](https://github.com/user-attachments/assets/49dda747-9d16-4c3f-8532-dcf4cbc15246)  
+
+
+![photo_5361692999320463886_y](https://github.com/user-attachments/assets/b3ccbe32-ad2d-4645-8959-51ccdfc63770)  
+
+when I installed them, one of the hinge holders broke, the other was fine. I will glue the broken one with methylacrylate glue  
+
+![photo_5361692999320463887_y](https://github.com/user-attachments/assets/41465637-527a-46f3-9086-3d8c7f74df5f)
+
+
+
+
+
 ## 3v of wheels  
 
 I continue experimenting with moving the axis of rotation to another plane. in this case, I want to move the wheels down and slightly to the side (which I did not reflect on the modeling, but it will be visible in the final assembly)  
@@ -316,7 +337,12 @@ Modelling in RHinoCeros. I added holes in the wheels to reduce weight and reduce
 
 SLicing in OrcaSlicer. Same printer, material and settings but - completion 20% vs 15% before  
 
-![Screenshot_148](https://github.com/user-attachments/assets/5085b740-bcc3-493e-9992-1a9daf192033)
+![Screenshot_148](https://github.com/user-attachments/assets/5085b740-bcc3-493e-9992-1a9daf192033)  
+
+Ready  
+
+![photo_5361692999320463885_y](https://github.com/user-attachments/assets/c1dc97aa-4aee-45c4-92f7-15f30be5b1cc)
+
 
 
 
