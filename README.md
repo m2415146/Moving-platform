@@ -341,7 +341,9 @@ SLicing in OrcaSlicer. Same printer, material and settings but - completion 20% 
 
 Ready  
 
-![photo_5361692999320463885_y](https://github.com/user-attachments/assets/c1dc97aa-4aee-45c4-92f7-15f30be5b1cc)
+![photo_5361692999320463885_y](https://github.com/user-attachments/assets/c1dc97aa-4aee-45c4-92f7-15f30be5b1cc)  
+
+When I printed the details, I noticed that I had made an axis with a large tolerance, on which the guide will be attached closer to the motor (I decided not to fix it), the cap for attaching to the axis of the wheel itself turned out to be small and I modeled it and printed it with the desired inner diameter. Also, the guide on the wheel side turned out to be quite thin from one edge and I will model a holder for it, which I will glue on top so that it gives strength
 
 
 
