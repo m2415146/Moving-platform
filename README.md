@@ -273,6 +273,27 @@ https://github.com/user-attachments/assets/886e0990-b502-4e0f-98a5-97c16a9197d7
 
 failure again. for now, I'll give up trying to print screws of a similar size.  
 
+since I couldn't apply the printed screws, I used metal ones.  
+
+installing wheels to the platform  
+
+
+
+https://github.com/user-attachments/assets/f6decfcf-3e91-49a7-ada4-5c3e19105132  
+
+Ready  
+
+![photo_5373137459371698234_y](https://github.com/user-attachments/assets/68bc6c80-0516-491e-805e-5188e688d843)  
+
+Platform with wheels v1  
+
+![photo_5370778414224630648_y](https://github.com/user-attachments/assets/7c05b227-3ec5-4ce4-8345-c5c5448bf8d4)  
+
+
+
+
+
+
 ## 2v of wheels  
 
 I find it interesting to move the rotation to another plane, so I started considering other options. I found a [gear project](https://www.printables.com/model/607786-bevel-gear-tester-with-parametric-gears)
