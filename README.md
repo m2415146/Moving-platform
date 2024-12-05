@@ -343,7 +343,35 @@ Ready
 
 ![photo_5361692999320463885_y](https://github.com/user-attachments/assets/c1dc97aa-4aee-45c4-92f7-15f30be5b1cc)  
 
-When I printed the details, I noticed that I had made an axis with a large tolerance, on which the guide will be attached closer to the motor (I decided not to fix it), the cap for attaching to the axis of the wheel itself turned out to be small and I modeled it and printed it with the desired inner diameter. Also, the guide on the wheel side turned out to be quite thin from one edge and I will model a holder for it, which I will glue on top so that it gives strength
+When I printed the details, I noticed that I had made an axis with a large tolerance, on which the guide will be attached closer to the motor (I decided not to fix it), the cap for attaching to the axis of the wheel itself turned out to be small and I modeled it and printed it with the desired inner diameter. Also, the guide on the wheel side turned out to be quite thin from one edge and I will model a holder for it, which I will glue on top so that it gives strength  
+
+## Platform v 2.0  
+
+to solve a number of problems and implement some transportation options, it took the manufacture of a new version of the platform. it is characterized by a reduced size, as well as a large number of holes for fixing the necessary parts on the platform with screws  
+
+Modelling in Rhinoceros8  
+
+![Screenshot_154](https://github.com/user-attachments/assets/6b27acfd-af88-4899-9703-99d00f08c0db)  
+
+adaptation for laser cutting in CorelDRAW  
+
+![photo_5373137459371698223_y](https://github.com/user-attachments/assets/9e491515-7fb3-4f62-86e5-e7275a2f3524)  
+
+laser cutting  
+
+
+
+https://github.com/user-attachments/assets/4c1fcbaf-7cb4-4839-9e15-85ec93b00da1  
+
+Ready  
+
+![photo_5373137459371698224_y](https://github.com/user-attachments/assets/636ab705-53ef-4fbc-a7d7-88d8db295de5)  
+
+
+
+
+
+
 
 
 
